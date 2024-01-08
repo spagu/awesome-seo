@@ -19,6 +19,9 @@
 * [Google mobile friendly](https://www.google.com/webmasters/tools/mobile-friendly) - Test your site mobile compatibility according to google
 * [Google Search Console](https://search.google.com/search-console/about) - Measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results
 * [GT Metrix](https://gtmetrix.com/) - Measure your site's Page Load Time, Total Page Size and Total # of Requests
+* [Seobility](https://www.seobility.net/en/) - Seobility is an all-in-one SEO software offering useful tools such as website crawling, Google rank tracker, backlink checker, continuous monitoring and whitelabel reporting
+* [Keyword.com](https://keyword.com/) – Track, pinpoint and validate your SEO efforts with real-time accurate rank tracking
+* [Prerender](https://prerender.io/) – Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript
 
 ## Specification
 * [Applinks documentation](http://applinks.org/documentation/) - Use meta tags to create deeplinks for your apps
